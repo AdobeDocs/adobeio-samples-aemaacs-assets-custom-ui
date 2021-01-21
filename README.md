@@ -1,4 +1,4 @@
-# CFCRUD
+# adobeio-samples-aemaacs-assets-custom-ui
 
 Welcome to my Adobe I/O Application!
 

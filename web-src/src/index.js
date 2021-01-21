@@ -53,7 +53,7 @@ function initRuntime() {
   // set solution info, shortTitle is used when window is too small to display full title
   runtime.solution = {
     icon: 'AdobeExperienceCloud',
-    title: 'Adobe IO Sample Custom AEM UI'
+    title: 'Adobe IO Sample Custom AEMaaCS Assets custom UI'
   };
-  runtime.title = 'Adobe IO Sample Custom AEM UI';
+  runtime.title = 'Adobe IO Sample AEMaaCS Assets custom UI';
 }
