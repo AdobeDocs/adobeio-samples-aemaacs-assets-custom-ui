@@ -5,7 +5,7 @@ packages:
       assets-collection:
         function: actions/assets-collection/index.js
         web: 'yes'
-        runtime: 'nodejs:12'
+        runtime: 'nodejs:14'
         inputs:
           LOG_LEVEL: debug
         annotations:
@@ -14,7 +14,7 @@ packages:
       assets-thumbnail:
         function: actions/assets-thumbnail/index.js
         web: 'yes'
-        runtime: 'nodejs:12'
+        runtime: 'nodejs:14'
         inputs:
           LOG_LEVEL: debug
         annotations:
