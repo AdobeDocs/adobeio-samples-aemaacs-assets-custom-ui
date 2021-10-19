@@ -1,6 +1,6 @@
 # adobeio-samples-aemaacs-assets-custom-ui
 
-Welcome to my Adobe I/O Application!
+This App Builder sample shows how to connect to AEM to retrieve and display Assets including thumbnails in a custom UI.
 
 ## Setup
 
