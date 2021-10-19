@@ -2,6 +2,8 @@
 
 This App Builder sample shows how to connect to AEM to retrieve and display Assets including thumbnails in a custom UI.
 
+Configure the AEMaaCS author instance here https://github.com/AdobeDocs/adobeio-samples-aemaacs-assets-custom-ui/blob/master/web-src/index.html#L15 
+
 ## Setup
 
 - Populate the `.env` file in the project root and fill it as shown [below](#env)
